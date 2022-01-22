@@ -1,13 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.27",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "TheBruddaMan_",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:374a75a53cf2537765165cdfb0ec068cda75292980cfd183ba4f621e99cfb5fa
+size 205
