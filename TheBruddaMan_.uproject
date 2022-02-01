@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
@@ -11,3 +12,8 @@
 		}
 	]
 }
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:374a75a53cf2537765165cdfb0ec068cda75292980cfd183ba4f621e99cfb5fa
+size 205
+>>>>>>> 86a3c2d14638d91ceea75d29ce7870f763dc6e79
